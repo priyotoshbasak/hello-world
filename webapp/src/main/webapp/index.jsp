@@ -8,3 +8,4 @@
 <h6> Creating container using ansible playbook <h6>
 <h6> This is new code <h6>
 <h1> Changing the code now <h1>
+<h1> trying to reboot ec2 instance by alarm <h1>
